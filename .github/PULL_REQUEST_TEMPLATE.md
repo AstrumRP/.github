@@ -1,18 +1,38 @@
-*Supprimer les catégories vides (et ce texte)*
-## Fixs 🛠️
+## Description
+
+<!-- 
+Possible d'ajouter une description plus libre ici en plus des catégories en dessous?
+-->
+
+#### Fixs 🛠️
+
+  - 
+  -
+  
+#### Ajouts 🌱
 
   - 
   - 
-  - 
 
-## Ajouts 🌱
-
-  - 
-  - 
-  - 
-
-## Suppressions 🗑️
+#### Suppressions 🗑️
 
   - 
   - 
-  - 
+
+## Que contient cette PR ?
+*Cocher ce qui s'applique*
+- [ ] 🍕 Feature
+- [ ] ♻️ Refactor
+- [ ] 🐛 Bug Fix
+- [ ] 📝 Mise à jour de documentation
+- [ ] 🎨 Style
+- [ ] 📦 Configuration
+- [ ] 🔥 Optimisation
+- [ ] 🌳 Update de dépendances
+- [ ] ⏩ Autre
+
+## Tâches pour faire fonctionner cette PR
+
+<!-- 
+EFFACER CETTE SECTION SI VIDE. N'est en général pertienent qu'en cas de breaking changes
+-->
